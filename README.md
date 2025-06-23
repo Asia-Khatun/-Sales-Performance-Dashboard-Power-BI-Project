@@ -3,15 +3,25 @@
 This Power BI dashboard offers a comprehensive view of business performance using dummy data to simulate real-world sales, product trends, customer behavior, and transaction metrics. Designed with interactivity and clarity in mind, the report enables users to explore key insights and drive data-informed decisions.
 
 💡 Key Highlights
+
 ✅ €1.53M Total Revenue, €880.94K Total Profit, and €644.16K Total Expenses
+
 ✅ 57.76% Gross Margin and 77.49K Total Discounts
+
 ✅ 11K Units Sold categorized as Completed, Pending, or Cancelled
+
 ✅ 2000 Total Transactions via Apple Pay, Visa, PayPal, etc.
+
 ✅ Brand Breakdown: IKEA, Nike, Apple, Logitech – performance by revenue, profit & cost
+
 ✅ Top 6 Cancelled & Top Rated Products across countries
+
 ✅ Customer Insights by Age Group, Gender & Country
+
 ✅ Key Influencer Chart showing what factors decrease total units sold
+
 ✅ Time Series Analysis of Units Sold across months and years
+
 ✅ Interactive Drill-downs, Bookmarks & Tooltips for storytelling
 
 🎯 Objectives
